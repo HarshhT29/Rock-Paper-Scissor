@@ -1,0 +1,26 @@
+body{
+    display: grid;
+    justify-content: center;
+    background-color:  rgb(25, 25, 25);
+}
+header{
+    text-align: center;
+    padding-bottom: 50px;
+    color: aliceblue;
+}
+
+.bgContainer{
+    width: 79%;
+    display: grid;
+    justify-content: center;
+    row-gap: 15px;
+    color: aliceblue;
+}
+button{
+    border: none;
+    border-radius: 500px;
+    cursor: pointer;
+    width: 70px;
+    padding: 9px 9px;
+    font-size: 15px;
+}
